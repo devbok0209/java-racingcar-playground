@@ -1,3 +1,5 @@
+package calculator;
+
 import calculator.StringAddCalculator;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
